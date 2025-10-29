@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/lnxbsh/ecom.git
+git clone https://github.com/somyachawla16/ecom.git
 cd ecom
 ```
 
